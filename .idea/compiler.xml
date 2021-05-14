@@ -9,5 +9,8 @@
         <module name="MaintenanceMonitor3" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="MaintenanceMonitor3" target="13" />
+    </bytecodeTargetLevel>
   </component>
 </project>

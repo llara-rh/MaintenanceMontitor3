@@ -5,7 +5,7 @@ import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
-@Path("api/MaintenanceMonitor3/")
+@Path("api/MaintenanceMonitor3")
 public class MaintenanceMonitorController {
     @GET
     @Path("/{sourceString}")
